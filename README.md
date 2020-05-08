@@ -5,8 +5,8 @@ members joining the team. There are also a number of Colab notebooks designed to
 TensorFlow.
 
 Documentation:
-* [Setup Instructions](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/Setup.md)
-* [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/Learning.md)
+* [Setup Instructions](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Setup.md)
+* [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md)
 
 Colab Notebooks
-* [Named Entity Recognition](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/named-entity-recognition.ipynb)
+* [Named Entity Recognition](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
