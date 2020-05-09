@@ -1,5 +1,13 @@
 # Setup
 
+### GitHub
+
+* If you don't have access already, email Dr. Clement or someone from the lab to give you full access to the BYU Handwriting Lab
+  GitHub organization. This will allow you to read/write public and private repositories.
+* Feel free to check out the [learning resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md)
+  available to you in this repository including links to help guides and interactive
+  [Colab Notebooks](https://github.com/BYU-Handwriting-Lab/GettingStarted/tree/master/notebooks).
+
 ### Slack
 
 * Email Dr. Clement to get an invite to the FHTL Slack Organization
