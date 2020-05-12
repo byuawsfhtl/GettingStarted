@@ -9,5 +9,5 @@ Documentation:
 * [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md)
 
 Colab Notebooks
-* [Handwriting Recognition](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-tensorflow.ipynb)
+* [Handwriting Recognition (TensorFlow)](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-tensorflow.ipynb)
 * [Named Entity Recognition](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
