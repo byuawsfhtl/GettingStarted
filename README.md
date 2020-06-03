@@ -9,6 +9,7 @@ Documentation:
 * [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md)
 
 Colab Notebooks
+* [Baseline Detection & Segmentation (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/ARUNetSegmentation.ipynb)
 * [Handwriting Recognition (Pytorch)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-pytorch.ipynb)
 * [Handwriting Recognition (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-tensorflow.ipynb)
-* [Named Entity Recognition](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
+* [Named Entity Recognition (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
