@@ -85,19 +85,20 @@ Try to find resources that use Python 3.
 
 ### Available Colab Notebooks to use for reference:
 
-* Record Segmentation
-  * Uses the Matterport implementation of MaskRCNN to segment individual records. You may need to download
-    datasets from the supercomputer to get this to work.
-  * [Colab Notebook](https://github.com/ericburdett/record_detection/blob/master/record_detection.ipynb)
+* Line Segmentation
+  * Implementation of the ARU-Net that is used for Baseline Detection and Segmentation
+  * [Colab Notebook](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/ARUNetSegmentation.ipynb)
 * Handwriting Recognition
-  * Basic Handwriting Recognition Model used on the IAM and RIMES datasets. You may need to download datasets
-    from the supercomputer to get this to work.
-  * [Colab Notebook](https://github.com/ericburdett/hwr/blob/master/notebook-tf.ipynb)
+  * Handwriting Recognition Model with training and results on the IAM dataset
+  * [Colab Notebook](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-tensorflow.ipynb)
+* Handwriting Recognition (PyTorch)
+  * Handwriting Recognition Model with training and results on the IAM dataset
+  * [Colab Notebook](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-pytorch.ipynb)
 * Named-Entity-Recognition
   * Basic Named Entity Recognition Model used on the Esposalles dataset. This is the most complete of all the
     notebooks, and should work without any other downloads required. You should start here for a quick and easy
     example of using TensorFlow 2.
-  * [Colab Notebook](https://github.com/ericburdett/named-entity-recognition/blob/master/notebook.ipynb)
+  * [Colab Notebook](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
 
 ### Handwriting Recognition Academic Papers:
 
