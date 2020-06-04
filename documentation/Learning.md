@@ -105,3 +105,10 @@ Try to find resources that use Python 3.
 * [Gated Convolutional Recurrent Neural Networks for Multilingual Handwriting Recognition](https://ieeexplore-ieee-org.erl.lib.byu.edu/document/8270042)
 * [Are Multidimensional Recurrent Layers Really Necessary for Handwritten Text Recognition?](http://www.jpuigcerver.net/pubs/jpuigcerver_icdar2017.pdf)
 * [Start-Follow-Read: End-to-End Full-Page Handwriting Recognition](http://openaccess.thecvf.com/content_ECCV_2018/papers/Curtis_Wigington_Start_Follow_Read_ECCV_2018_paper.pdf)
+
+### Other Useful Handwriting Resources:
+
+* Connectionist-Temporal-Classification Loss (CTC-Loss)
+  * CTC-Loss is used extensively in Handwriting Recognition Models and is helpful when working with unsegmented sequential data in neural networks.
+  * https://www.cs.toronto.edu/~graves/icml_2006.pdf (Original Paper)
+  * https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c (More Digestible Blog Post)
