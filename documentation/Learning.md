@@ -17,6 +17,11 @@ Try to find resources that use Python 3.
 * This free [Udacity course](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187) is a great introduction
   to Machine/Deep Learning and TensorFlow. It's highly recommended if you are not very familiar with machine learning concepts.
 * This is a great [visualization](http://playground.tensorflow.org/) if you are new to the concept of neural networks.
+* This [YouTube channel](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) has some excellent videos on foundational machine learning concepts. Series 3 is a great introduction to the field of Deep Learning:
+  * [But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk&t=111s)
+  * [Gradient Descent, How Neural Networks Learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+  * [What is Backpropagation Really Doing?](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+  * [Backpropagation Calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * Concepts you probably need to become familiar with:
   * Neural Networks
   * Back-Propagation/Gradient Descent
