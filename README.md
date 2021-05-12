@@ -17,3 +17,4 @@ Colab Notebooks
 * [Handwriting Recognition (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/handwriting-recognition-tensorflow.ipynb)
 * [Named Entity Recognition (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/named-entity-recognition.ipynb)
 * [Model Understanding (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/ModelUnderstanding.ipynb)
+* [Handwriting Augmentations (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/Handwriting_Augmentation.ipynb)
