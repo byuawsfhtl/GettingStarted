@@ -7,6 +7,7 @@ TensorFlow.
 Documentation:
 * [Setup Instructions](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Setup.md)
 * [Learning Resources](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Learning.md)
+* [Creating Network Data](https://github.com/BYU-Handwriting-Lab/GettingStarted/blob/master/documentation/Data.md)
 
 Colab Notebooks
 * [Hello World (TensorFlow)](https://colab.research.google.com/github/BYU-Handwriting-Lab/GettingStarted/blob/master/notebooks/HelloWorldTensorFlow.ipynb)
