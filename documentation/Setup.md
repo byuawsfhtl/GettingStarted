@@ -30,6 +30,7 @@
 	        * GPUs: 4
 	        * Run-Time: 24 Hours
 * Email Dr. Clement to join the fslg_handwriting shared group. Many of our datasets and models are saved in these shared directories.
+* Copy the .bashrc file into your home directory
 
 ### Email Group
 
