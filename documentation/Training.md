@@ -77,5 +77,5 @@ Then, open up **localhost:8888** and you should have access to your notebook and
 To cancel a slurm job for your notebook when you don't need to use the gpus anymore, please cancel as soon as you can so that others can use the gpus you no longer need. To do this, simply run the following command:
 
 ```
-scancel<slurm-job-id>
+scancel <slurm-job-id>
 ```
